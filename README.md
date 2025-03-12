@@ -7,4 +7,4 @@
 💻 I work with React, Kotlin, and C#  
 🛠 My favorite IDEs are VS Code, Webstorm and Notepad  
 🏎️ I love working on cars  
-🔗 [Portfolio](https://frvnzz.github.io/)
+🔗 <a href="https://frvnzz.github.io/" target="_blank">Portfolio</a>
