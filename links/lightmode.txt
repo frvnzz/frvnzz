@@ -1,2 +1,2 @@
 # Typing animation by https://github.com/denvercoder1/readme-typing-svg
-https://readme-typing-svg.herokuapp.com/demo/?font=Arial&color=1F2328&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten+(USTP)
+https://readme-typing-svg.herokuapp.com/demo/?font=Arial&color=1F2328&lines=Hi%2C+I'm+Franz+%F0%9F%91%8B;Creative+Computing+student+at+University+of+Applied+Sciences+St.+P%C3%B6lten
